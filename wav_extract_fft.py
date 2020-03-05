@@ -1,16 +1,3 @@
-"""Script extracts the frequencies from the dataset and makes frequency "prints" of all .wav files passed as input.
-
-IN: Paths to directories consisting of .wav files.
-OUT: Saved .fft.npy files for respective .wav files in input directories.
-
-Run instructions:
-python extract-features-FFT.py train_dir_path_1 train_dir_path_2 ... train_dir_path_N
-
-Where train_dir_path_i consists of .wav files.
-
-NOTE:
-1. Use ONLY absolute paths. 
-"""
 
 import scipy
 import scipy.io.wavfile
