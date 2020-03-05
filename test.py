@@ -1,3 +1,9 @@
+"""
+Run Instruction:
+python3 test.py ~/path/to/your/song/file
+"""
+
+
 import os	
 import sys 
 from sklearn.externals import joblib

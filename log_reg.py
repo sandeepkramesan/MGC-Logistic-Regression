@@ -1,6 +1,6 @@
 """
 Run command:
-python3 log_reg.py fft_extracted 
+python3 log_reg.py fft_extracted/
 """
 
 import sklearn 

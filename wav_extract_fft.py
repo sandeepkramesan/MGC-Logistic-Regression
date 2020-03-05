@@ -1,3 +1,7 @@
+"""
+Run Instruction:
+python3 wav_extract_fft.py
+"""
 
 import scipy
 import scipy.io.wavfile
