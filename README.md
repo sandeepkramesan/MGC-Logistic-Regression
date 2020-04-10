@@ -3,8 +3,16 @@
 #### Dataset Heirarchy
 ```
 gtzan_dataset
-	\training_data
-	\test_data
+	\blues
+	\classical
+	\country
+	\disco
+	\hiphop
+	\jazz
+	\metal
+	\pop
+	\reggae
+	\rock
 ```
 
 #### Run order of files:
